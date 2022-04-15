@@ -1,0 +1,30 @@
+[33mcommit 4260bf24f8e40e9b4c346ef05f0f7207aae7a8c0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 6783eed 470f86a
+Author: uday pratap singh <sudaypratp990@gmail.com>
+Date:   Fri Apr 15 15:58:56 2022 +0530
+
+    Merge branch 'music_player'
+
+[33mcommit 470f86a25a13b01ddcc25d5e412ecc5cba355e35[m[33m ([m[1;32mmusic_player[m[33m)[m
+Author: uday pratap singh <sudaypratp990@gmail.com>
+Date:   Fri Apr 15 15:49:49 2022 +0530
+
+    musicplayer
+
+[33mcommit 6783eede03ad6ad5c897ee286be324c3e973ed43[m[33m ([m[1;32minternet[m[33m)[m
+Author: uday pratap singh <sudaypratp990@gmail.com>
+Date:   Fri Apr 15 15:37:48 2022 +0530
+
+    internet added
+
+[33mcommit 87b2ebbd17cb7c204fcf3aac76b2e29c2cf734e6[m
+Author: uday pratap singh <sudaypratp990@gmail.com>
+Date:   Fri Apr 15 15:08:49 2022 +0530
+
+    added phone model
+
+[33mcommit 9fcdff8217f932e4b563c6d609c2d7751b9716cc[m
+Author: uday pratap singh <sudaypratp990@gmail.com>
+Date:   Fri Apr 15 15:06:07 2022 +0530
+
+    phone created
